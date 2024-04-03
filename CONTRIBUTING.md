@@ -1,3 +1,10 @@
+<!--
+    TODO: Add a more thorough CONTRIBUTING guide based on The Good Docs
+    Project. They have templates, guides and examples, listed below:
+    - https://thegooddocsproject.dev/
+    - https://gitlab.com/tgdp/templates/-/blob/v1.1.0/contributing-guide/guide-contributing-guide.md
+    - https://gitlab.com/tgdp/templates/-/blob/v1.1.0/contributing-guide/template-contributing-guide.md
+ -->
 # Contributing Guide
 Ahoy! 🏴‍☠️ You made it to the Runrig community! 🚜
 
